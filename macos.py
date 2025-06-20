@@ -9,11 +9,6 @@ from datetime import datetime, timedelta
 
 logger = logging.getLogger('Calculator')
 
-# Fix UTF-8 encoding for Windows console
-if sys.platform == 'win32':
-    sys.stderr.reconfigure(encoding='utf-8')
-    sys.stdout.reconfigure(encoding='utf-8')
-
 import math
 import random
 
