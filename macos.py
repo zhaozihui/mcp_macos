@@ -68,10 +68,10 @@ def add_note_to_mac_notes(title: str, content: str, account: str = "iCloud") -> 
         return {"success": False, "error": str(e)}
 EMAIL_ACCOUNTS = {
     "default": {
-        "smtp_server": "cn.tre-inc.com",
+        "smtp_server": "",
         "smtp_port": 25,
-        "username": "10165448zhao_zihui@cn.tre-inc.com",
-        "password": "zhao0285"  # 推荐从环境变量或密文管理加载
+        "username": "",
+        "password": ""  # 推荐从环境变量或密文管理加载
     },
     # 可以添加更多配置：
     # "internal": { ... },
