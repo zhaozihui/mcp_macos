@@ -6,7 +6,7 @@ Usage:
 
 export MCP_ENDPOINT=<mcp_endpoint>
 python mcp_pipe.py <mcp_script>
-78
+
 """
 
 import asyncio

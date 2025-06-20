@@ -1,6 +1,5 @@
 # MCP Sample Project | MCP 示例项目
 
-
 A powerful interface for extending AI capabilities through remote control, calculations, email operations, knowledge search, and more.
 
 一个强大的接口，用于通过远程控制、计算、邮件操作、知识搜索等方式扩展AI能力。
